@@ -1,4 +1,6 @@
 # RADOX
+<img src="https://komarev.com/ghpvc/?username=radox&label=radox&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
+
 A python script for downloading YouTube audios by typing link
 
 # How to use?
